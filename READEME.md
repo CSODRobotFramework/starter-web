@@ -7,8 +7,10 @@ This is a simple website project.
 This is a short intro
 
 ## Deployment
-
 Go for it
+## Copy 
+
+2019 Git.Stuff
 
 ## Purpose
 
